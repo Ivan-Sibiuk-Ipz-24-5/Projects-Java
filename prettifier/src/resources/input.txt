@@ -1,0 +1,18 @@
+Your flight departs from #HAJ and your destination is ##EDDW.
+Please arrive at the airport 2 hours before departure.
+
+Flight times:
+1. D(2022-05-09T08:07Z)
+2. T12(2069-04-24T19:18-02:00)
+3. T12(2080-05-04T14:54Z)
+4. T12(1980-02-17T03:30+11:00)
+5. T24(2032-07-17T04:08+13:00)
+6. T24(2084-04-13T17:54Z)
+7. T24(2024-07-23T15:29-11:00)
+
+*#HAJ is in Hannover, and ##EDDW is in Bremen.
+Check-in counters are located near gate 12.
+
+Vertical spaces follow:\v\v\f\r
+End of itinerary.
+
